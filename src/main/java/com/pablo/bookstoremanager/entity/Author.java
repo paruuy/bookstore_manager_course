@@ -1,6 +1,5 @@
 package com.pablo.bookstoremanager.entity;
 
-import jdk.jfr.DataAmount;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
